@@ -15,10 +15,10 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-- 📊 Passionate about **Data Science, ML, AI, and Analytics**  
-- 🌱 Actively learning **Deep Learning, NLP, and Model Deployment**  
-- 🌐 Love creating modern dashboards, analytical systems, and scalable ML pipelines  
+- 🎓 Currently pursuing **B.Tech in Information Technology**  
+- 📊 Passionate about **Data Science, ML, AI, DL and DataScience**  
+- 🌱 Actively learning **NLP, GenAI and Model Deployment**  
+- 🌐 Love creating modern dashboards, predictive systems, and scalable datascience pipelines  
 - 🌌 “**Observer Creates the Reality**”—I live by this mindset
 
 ---
@@ -28,38 +28,24 @@
 ### **Programming Languages**
 | Python | Java | JavaScript | SQL | HTML | CSS |
 |--------|------|------------|-----|------|-----|
-| 🐍 | ☕ | ⚡ | 🗄️ | 🌐 | 🎨 |
-
 ### **Frontend**
 | Streamlit | JavaScript | HTML | CSS |
 |-----------|------------|------|-----|
-| 📊 | ⚡ | 🌐 | 🎨 |
-
 ### **Data Analysis & Visualization**
 | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Power BI |
 |--------|--------|-------------|----------|--------|-----------|
-| 🐼 | 🔢 | 📈 | 🎨 | 📊 | 📊 |
-
 ### **Machine Learning & AI**
 | Scikit-learn | TensorFlow | Keras | PyTorch | Deep Learning |
 |--------------|-------------|--------|---------|----------------|
-| 🤖 | 🔥 | 🔧 | 🧠 | 🧬 |
-
-### **Databases**
-| MySQL |
-|-------|
-| 🗄️ |
-
 ### **Tools & Platforms**
 | Git | GitHub | Google Colab | Jupyter Notebook |
 |-----|--------|--------------|-------------------|
-| 🧩 | 🐙 | ☁️ | 📓 |
-
 ### **Mathematics Foundation**
 | Statistics | Probability | Linear Algebra | Calculus |
 |------------|-------------|----------------|----------|
-| 📊 | 🎲 | 🔢 | ∫ |
-
+### **Databases**
+| MySQL |
+|-------|
 ---
 
 ## 🌐 Connect With Me  
@@ -86,5 +72,3 @@
 I believe *curiosity fuels intelligence*—and I’m endlessly curious.
 
 ---
-
-⭐ **If you like this profile, consider giving it a star!**  
