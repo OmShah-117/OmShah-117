@@ -61,12 +61,25 @@
 
 ## 📊 GitHub Analytics  
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/profile-details?username=OmShah-117&theme=chartreuse_dark" />
+
+<br/>
+
+<!-- Stats + Languages -->
+<img height="180" src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/stats?username=OmShah-117&theme=chartreuse_dark" />
+
+<img height="180" src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/repos-per-language?username=OmShah-117&theme=chartreuse_dark" />
+
+<br/>
+
+<!-- Commit Languages + Productivity -->
+<img height="180" src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/most-commit-language?username=OmShah-117&theme=chartreuse_dark" />
+
+<img height="180" src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/productive-time?username=OmShah-117&theme=chartreuse_dark" />
 
 </div>
-
 ---
 
 ## ⚡ Fun Fact  
