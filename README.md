@@ -1,4 +1,21 @@
-# Hi there, I’m **Om Shah** 👋  
+<!-- ======================= -->
+<!-- Custom Banner at the Top -->
+<!-- ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Observer+Creates+The+Reality" alt="Observer Creates The Reality" />
+</p>
+
+---
+
+<!-- ======================= -->
+<!-- Animated Introduction -->
+<!-- ======================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Om+Shah+👋;Welcome+to+my+GitHub+Universe+🌌;Data+Science+%7C+AI+%7C+Machine+Learning" />
+</h1>
+
 **Curiosity is the first step of innovation.**
 
 I’m a passionate Data Science & AI enthusiast who loves exploring new ideas, solving problems with data, and constantly learning.  
@@ -37,7 +54,7 @@ From **Machine Learning to NLP to GenAI**, I enjoy building impactful projects �
 
 ---
 
-## ⚒️ **Languages · Tools · Frameworks**
+# ⚒️ **Tech Stack**
 
 ### **Programming Languages**
 - Python, Java, JavaScript, SQL, HTML, CSS
@@ -62,16 +79,14 @@ From **Machine Learning to NLP to GenAI**, I enjoy building impactful projects �
 
 ---
 
-# 📊 **GitHub Stats (Neon Theme — Same Style as Image)**  
+# 📊 **GitHub Stats (Neon Theme)**  
 
 <div align="center">
 
-<!-- Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmShah-117&theme=chartreuse_dark" />
 
 <br/>
 
-<!-- Stats + Languages -->
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmShah-117&theme=chartreuse_dark" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmShah-117&theme=chartreuse_dark" />
 
