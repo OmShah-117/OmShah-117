@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=Observer+Creates+The+Reality" />
+<h1 align="center" style="font-family:Orbitron; font-size:48px; color:#C77DFF; letter-spacing:2px;">
+  Observer Creates The Reality
 </h1>
+
 
 
 
