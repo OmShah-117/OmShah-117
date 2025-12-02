@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Observer+Creates+The+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=Observer+Creates+The+Reality" />
 </h1>
+
 
 
 <!-- ===================== HEADING ===================== -->
