@@ -5,7 +5,7 @@
 
 <!-- ===================== HEADING ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;Data+Enthusiast+%7C+ML+Learner+%7C+Aspiring+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;Quantum+Tech+Enthusiast+%7C+Maching+Learning+Deep+Learning+%7C+Aspiring+Data+Scientist" />
 </h1>
 
 <p align="center">
