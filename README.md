@@ -37,27 +37,28 @@ From **Machine Learning to NLP to GenAI**, I enjoy building impactful projects �
 
 ---
 
-## ⚒️ Languages · Tools · Frameworks  
+## ⚒️ **Languages · Tools · Frameworks**
 
-| 💻 Programming & Data | 📊 Tools & Libraries | 🌐 Other |
-|----------------------|----------------------|---------|
-| Python 🐍            | NumPy, Pandas         | Git / GitHub |
-| SQL                  | Matplotlib, Seaborn   | Jupyter Notebook |
-|                      | Scikit-learn, TensorFlow / PyTorch | Linux / Bash |
-|                      | NLP, HuggingFace       | VS Code |
+### **Programming Languages**
+- Python, Java, JavaScript, SQL, HTML, CSS
 
----
+### **Frontend**
+- Streamlit, JavaScript, HTML, CSS
 
-## 📂 Featured Projects  
+### **Data Analysis & Visualization**
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
 
-| # | Repository Name | Description |
-|---|-----------------|-------------|
-| 1 | **Scientific-Stimulations** | Experiments & notebooks merging science + coding. |
-| 2 | **Data-Visualization-** | Visual data insights using Python. |
-| 3 | **Machine-Learning** | ML models & end-to-end pipelines. |
-| 4 | **Quantum-Basics-PDF** | Notes on quantum mechanics concepts. |
-| 5 | **Satellite-Data-Analysis** | Experiments with satellite/spatial datasets. |
-| 6 | **Secure-User-Login-System** | Python + MySQL login system with basic security. |
+### **Machine Learning & AI**
+- Scikit-learn, TensorFlow, Keras, PyTorch, Deep Learning
+
+### **Databases**
+- MySQL
+
+### **Tools & Platforms**
+- Git, GitHub, Google Colab, Jupyter Notebook
+
+### **Mathematics**
+- Strong foundation in **Statistics**, **Probability**, **Linear Algebra**, and **Calculus**
 
 ---
 
