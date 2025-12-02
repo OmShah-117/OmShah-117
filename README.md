@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Observer%20Creates%20The%20Reality-black?style=for-the-badge&logoColor=white" height="45"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Observer+Creates+The+Reality" />
+</h1>
+
 
 <!-- ===================== HEADING ===================== -->
 <h1 align="center">
