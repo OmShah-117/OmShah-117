@@ -60,17 +60,15 @@
 ---
 
 ## 📊 GitHub Analytics  
-### 📈 GitHub Readme Stats
+
+### 📉 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=OmShah-117&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-
-<br/>
-
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmShah-117&theme=react-dark&area=true&hide_border=true" />
 
 </div>
+
 ---
 
 ## ⚡ Fun Fact  
