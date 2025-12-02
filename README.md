@@ -1,7 +1,10 @@
 <!-- ===================== BANNER ===================== -->
-<h1 align="center" style="font-family:Orbitron; font-size:48px; color:#C77DFF; letter-spacing:2px;">
-  Observer Creates The Reality
-</h1>
+<div align="center" style="background:#0D001A; padding:25px; border-radius:16px; box-shadow:0 0 25px #C77DFF;">
+  <span style="font-family:Orbitron; font-size:48px; color:#D291FF; text-shadow:0 0 12px #C77DFF;">
+    Observer Creates The Reality
+  </span>
+</div>
+
 
 
 
