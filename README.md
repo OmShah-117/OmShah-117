@@ -30,12 +30,10 @@
   📚 About Me
 </h3>
 <p style="color: #c9d1d9; line-height: 1.6;">
-[cite_start]I am a dedicated B.Tech IT student at Walchand Institute of Technology [cite: 9, 32] [cite_start]with a strong foundation in mathematics [cite: 9, 40] [cite_start]and a deep interest in Machine Learning and Deep Learning[cite: 9, 37]. [cite_start]My focus is on building predictive models and deriving actionable insights from complex datasets[cite: 10, 11].
+I am passionate about Machine Learning, Deep Learning, and Data Science, with a strong focus on building predictive models and extracting actionable insights from complex datasets.
 </p>
 <ul style="color: #c9d1d9; list-style-type: none; padding-left: 0;">
-  [cite_start]<li style="margin-bottom: 5px;">📍 **Location:** Pandharpur, India, 413304 [cite: 6]</li>
-  [cite_start]<li style="margin-bottom: 5px;">📧 **Contact:** <span style="color: #58a6ff;">oshah0801@gmail.com</span> [cite: 4]</li>
-  [cite_start]<li>🎓 **Education:** B.Tech in Information Technology at Walchand Institute of Technology[cite: 32].</li>
+  <li style="margin-bottom: 5px;">📧 <b>Contact:</b> <span style="color: #58a6ff;">oshah0801@gmail.com</span></li>
 </ul>
 </div>
 
@@ -82,13 +80,32 @@
 <h3 style="color: #ffffff; margin-top: 0; border-bottom: 1px solid #238636; padding-bottom: 5px;">
   💻 Core Technical Stack
 </h3>
-| Area | Technologies |
-| :--- | :--- |
-[cite_start]| **Languages** | Python, Java, JavaScript, SQL, HTML, CSS [cite: 34] |
-| **ML/DL Frameworks** | [cite_start]Scikit-learn, TensorFlow, Keras, PyTorch, Deep Learning [cite: 37] |
-| **Data & Viz** | [cite_start]Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI [cite: 36] |
-| **Databases** | [cite_start]MySQL [cite: 38] |
-| **Tools** | [cite_start]Git, GitHub, Google Colab, Jupyter Notebook [cite: 39] |
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, Java, JavaScript, SQL, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><b>ML/DL Frameworks</b></td>
+    <td>Scikit-learn, TensorFlow, Keras, PyTorch</td>
+  </tr>
+  <tr>
+    <td><b>Data & Viz</b></td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, Google Colab, Jupyter Notebook</td>
+  </tr>
+</table>
 
 <br>
 <div align="center">
@@ -101,11 +118,11 @@
   🏆 Certifications
 </h3>
 <ul style="color: #c9d1d9; padding-left: 20px;">
-  [cite_start]<li>Career Essentials in Generative AI [cite: 45]</li>
-  [cite_start]<li>Supervised Machine Learning [cite: 43]</li>
-  [cite_start]<li>Data Analysis Using Python [cite: 45]</li>
-  [cite_start]<li>Python Programming Language [cite: 42]</li>
-  [cite_start]<li>SQL Language (Intermediate) [cite: 46]</li>
+  <li>Career Essentials in Generative AI</li>
+  <li>Supervised Machine Learning</li>
+  <li>Data Analysis Using Python</li>
+  <li>Python Programming Language</li>
+  <li>SQL Language (Intermediate)</li>
 </ul>
 </div>
 
