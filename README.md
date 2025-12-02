@@ -68,6 +68,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmShah-117&theme=react-dark&area=true&hide_border=true" />
 
 </div>
+<div align="center">
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/profile-details?username=OmShah-117&theme=chartreuse_dark" />
+</div>
 
 ---
 
