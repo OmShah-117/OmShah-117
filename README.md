@@ -1,14 +1,14 @@
 <!-- ===================== BANNER ===================== -->
-<div align="center" style="background:#0D001A; padding:25px; border-radius:16px; box-shadow:0 0 25px #C77DFF;">
-  <span style="font-family:Orbitron; font-size:48px; color:#D291FF; text-shadow:0 0 12px #C77DFF;">
-    Observer Creates The Reality
-  </span>
-</div>
-
-
-
-
-
+<h1 align="center" style="
+  font-family:Orbitron;
+  font-size:52px;
+  background: linear-gradient(90deg, #A85CFF, #D291FF, #A85CFF);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 18px rgba(199, 125, 255, 0.6);
+">
+  Observer Creates The Reality
+</h1>
 <!-- ===================== HEADING ===================== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;A+good+foundation+in+Mathematics;Deep+interest+in+Machine+Learning+and+Deep+Learning;Skilled+in+building+predictive+models;Delivering+actionable+insights+from+complex+datasets" />
