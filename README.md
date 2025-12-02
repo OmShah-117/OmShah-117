@@ -1,100 +1,109 @@
-<!--
-  Hi there 👋, I’m Om Shah (OmShah-117) — feel free to customize this README to reflect your own style and projects.
--->
-
 # Hi there, I’m **Om Shah** 👋  
-**Curiosity is the first step of innovation.**  
+**Curiosity is the first step of innovation.**
 
-I’m a passionate Data Scientist from India, currently exploring the depths of **Machine Learning, Deep Learning, NLP, Generative AI, Data Science**, and more. I love space, the universe, and exploring ideas — both through code and through curiosity-driven learning.  
+I’m a passionate Data Science & AI enthusiast who loves exploring new ideas, solving problems with data, and constantly learning.  
+From **Machine Learning to NLP to GenAI**, I enjoy building impactful projects — and in my free time, you’ll often find me reading about the **universe, space, and physics** or planting trees 🌱.
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- 🎓 Currently a student, constantly learning and building.  
-- 🔭 I’m interested in applying ML/AI for real-world problems — from data visualization to predictive modelling, and possibly space / scientific-data projects (inspired by my love for cosmos and physics).  
-- 🌱 I enjoy reading about space, universe and physics.  
-- 🌳 I love planting trees and contributing to a greener world in my free time.  
-- 💬 Ask me about **Python**, **Machine Learning**, **Deep Learning**, **Data Science**, **NLP / GenAI**, **Data Visualization**, or just “space & universe”!  
+- 🔭 Currently exploring: **Machine Learning, Deep Learning, NLP & GenAI**  
+- 🌱 Learning more about: **MLOps, LLMs, AI Systems Design**  
+- 🌌 Passionate about **space, universe, and scientific learning**  
+- 🌳 I love planting trees and contributing to nature  
+- 💬 Ask me about **Python, ML, DL, Data Visualization, NLP**  
+- 📧 Gmail: **oshah0801@gmail.com**  
 
 ---
 
-## ⚒️ Languages · Frameworks · Tools  
+## 🌐 Connect With Me  
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/om-shah-943676259" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@oshah0801" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/oshah0801" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ⚒️ Languages · Tools · Frameworks  
 
 | 💻 Programming & Data | 📊 Tools & Libraries | 🌐 Other |
 |----------------------|----------------------|---------|
 | Python 🐍            | NumPy, Pandas         | Git / GitHub |
-|                      | Matplotlib, Seaborn   | Jupyter Notebooks / Lab |
-|                      | Scikit-learn, TensorFlow / PyTorch | Linux / Bash / Shell scripting |
-|                      | NLP / GenAI libraries (e.g. HuggingFace) | VS Code / IDEs |
-
-> *Feel free to replace or expand this list based on what you use or learn.*  
-
----
-
-## 🚀 What I’m Working On / Learning  
-
-- Diving deep into **NLP & Generative AI** — building models, exploring language-based tasks and experiments.  
-- Working on data-driven projects: visualization, ML pipelines, data cleaning and analytics.  
-- Exploring **scientific data analysis** — especially in areas bridging data science with physics/astronomy (since I enjoy reading about the cosmos).  
-- Always keen to collaborate on **open-source**, **data projects**, **ML/NLP experiments**, or just **learning together**!  
+| SQL                  | Matplotlib, Seaborn   | Jupyter Notebook |
+|                      | Scikit-learn, TensorFlow / PyTorch | Linux / Bash |
+|                      | NLP, HuggingFace       | VS Code |
 
 ---
 
 ## 📂 Featured Projects  
 
-Here are some of my repositories — a mix of ML, data-visualization, scientific-data work and more.  
-
-| # | Repository Name | What it does / what I learnt |
-|---|-----------------|------------------------------|
-| 1 | **Scientific-Stimulations** | Jupyter-Notebook experiments with data & physics/math — combining scientific curiosity with code. |
-| 2 | **Data-Visualization-** | Data-viz experiments: exploring datasets, drawing insights using charts/plots. |
-| 3 | **Machine-Learning** | Machine learning projects: classification/regression problems, model building & evaluation. |
-| 4 | **Quantum-Basics-PDF** | Notes / resources summarizing basic quantum mechanics — merging interests in physics and coding. |
-| 5 | **Satellite-Data-Analysis** | Working with real-world (or simulated) satellite / spatial data — analysis & visualization. |
-| 6 | **Secure-User-Login-System** | A small full-stack / backend project (with Python & MySQL) to explore web-dev + security basics. |
-
-> 💡 I try to keep my repository list clean and meaningful — quality over quantity.  
+| # | Repository Name | Description |
+|---|-----------------|-------------|
+| 1 | **Scientific-Stimulations** | Experiments & notebooks merging science + coding. |
+| 2 | **Data-Visualization-** | Visual data insights using Python. |
+| 3 | **Machine-Learning** | ML models & end-to-end pipelines. |
+| 4 | **Quantum-Basics-PDF** | Notes on quantum mechanics concepts. |
+| 5 | **Satellite-Data-Analysis** | Experiments with satellite/spatial datasets. |
+| 6 | **Secure-User-Login-System** | Python + MySQL login system with basic security. |
 
 ---
 
-## 📈 GitHub Stats  
+# 📊 **GitHub Stats (Neon Theme — Same Style as Image)**  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmShah-117&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&theme=dark&hide_border=true)  
+<div align="center">
 
-*(These cards update automatically — nice way to show activity without manual updates)*  
+<!-- Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmShah-117&theme=chartreuse_dark" />
 
----
+<br/>
 
-## 📫 How to Reach Me  
+<!-- Stats + Languages -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmShah-117&theme=chartreuse_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmShah-117&theme=chartreuse_dark" />
 
-- Email: your-email@example.com (or remove if you prefer privacy)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile) — or any social/professional profile you use  
-- I’m open to collaboration, mentorship, or discussions about ML / Data Science / Space / ML + Physics — just ping me!  
+<br/>
 
----
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmShah-117&theme=chartreuse_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmShah-117&theme=chartreuse_dark" />
 
-## 🌠 Fun Facts & Passions  
-
-- I love reading about space, cosmos and quantum physics 🪐 — my favourite nonfiction books include explorations of the universe and science.  
-- I enjoy planting trees and contributing to environmental awareness — I believe code and nature both have their place in our lives.  
-- I’m always curious, often experimenting with side-projects beyond coursework, exploring both technical skills and scientific curiosities.  
+</div>
 
 ---
 
-## ✅ What I’m Looking For  
-
-- Opportunities to collaborate on **open-source ML / Data Science / Scientific Data Projects**.  
-- Projects that combine **data science** with **scientific / physics / astronomy** topics.  
-- People/students/enthusiasts to learn together — especially those who love exploring the cosmos or applying ML to science.  
-
----
-
-> “Imagination is more important than knowledge.” — *Albert Einstein* (and a motto I try to live by)  
+## 🏆 Achievement Trophy  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmShah-117&theme=radical&no-frame=true&column=6" />
+</div>
 
 ---
 
-Thanks for stopping by.  
-If you find something interesting — ⭐ my repos, follow me or drop a message.  
-Let’s build, learn and explore together! 🚀  
+## 📈 Additional GitHub Analytics  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌠 Fun Facts  
+
+- I enjoy exploring the **mysteries of the universe** — physics, black holes, quantum theory.  
+- I’m deeply inspired by **science, technology, and curiosity-driven learning**.  
+- Environment lover 🌳 — I believe in giving back to nature.  
+
+---
+
+Thanks for visiting my profile!  
+If something caught your eye — feel free to ⭐ a repo or connect with me! 🚀  
