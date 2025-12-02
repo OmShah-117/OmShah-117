@@ -20,15 +20,15 @@
 - 📊 Passionate about **Data Science, ML, AI, DL and DataScience**  
 - 🌱 Actively learning **NLP, GenAI and Model Deployment**  
 - 🌐 Love creating modern dashboards, predictive systems, and scalable datascience pipelines  
-- 🌌 “**Observer Creates the Reality**”—I live by this mindset
+- 🌌 “**Observer Creates the Reality**” - I live by this mindset
 
 ---
 
 # 🧠 **Tech Stack**
 
 ### **Programming Languages**
-| Python | Java | JavaScript | SQL | HTML | CSS |
-|--------|------|------------|-----|------|-----|
+| Python | Java | JavaScript | SQL |
+|--------|------|------------|-----|
 ### **Frontend**
 | Streamlit | JavaScript | HTML | CSS |
 |-----------|------------|------|-----|
@@ -69,14 +69,9 @@
 
 </div>
 <div align="center">
-
-<!-- Profile Details -->
-<img src="https://github-profile-summary-cards-git-main-profile-summary-cards-team.vercel.app/api/cards/profile-details?username=OmShah-117&theme=chartreuse_dark" />
-</div>
-
 ---
 
 ## ⚡ Fun Fact  
-I believe *curiosity fuels intelligence*—and I’m endlessly curious.
+I believe *curiosity fuels intelligence* - and I’m endlessly curious.
 
 ---
