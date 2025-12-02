@@ -5,8 +5,9 @@
 
 <!-- ===================== HEADING ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;Quantum+Tech+Enthusiast+%7C+Maching+Learning+Deep+Learning+%7C+Aspiring+Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;A+good+foundation+in+Mathematics;Deep+interest+in+Machine+Learning+and+Deep+Learning;Skilled+in+building+predictive+models;Delivering+actionable+insights+from+complex+datasets" />
 </h1>
+
 
 <p align="center">
   I transform raw data into meaningful insights and build intelligent solutions powered by Machine Learning & AI.
