@@ -44,7 +44,7 @@
 </h3>
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://medium.com/@oshah0801">
-    <img src="https://readme-medium.vercel.app/api?username=oshah0801&theme=dark" alt="Om Shah's Latest Medium Articles" style="border-radius: 5px;"/>
+    <img src="[https://readme-medium.vercel.app/api?username=oshah0801&theme=dark](https://medium.com/@oshah0801/stop-guessing-a-simple-intro-to-the-data-science-that-runs-your-life-91beaf8434b6)" alt="Om Shah's Latest Medium Articles" style="border-radius: 5px;"/>
   </a>
 </div>
 
