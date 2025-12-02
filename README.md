@@ -22,11 +22,11 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing **B.Tech in Information Technology**  
-- 📊 Passionate about **Data Science, ML, AI, DL and DataScience**  
-- 🌱 Actively learning **NLP, GenAI and Model Deployment**  
-- 🌐 Love creating modern dashboards, predictive systems, and scalable datascience pipelines  
-- 🌌 “**Observer Creates the Reality**” - I live by this mindset
+- 🎓 Currently pursuing **B.Tech in Information Technology.**  
+- 📊 Passionate about **Data Science, ML, AI, DL and DataScience.**  
+- 🌱 Actively learning **NLP, GenAI and Model Deployment.**  
+- 🌐 Love creating modern dashboards, predictive systems, and scalable datascience pipelines.  
+- 🌌 “**Observer Creates the Reality**” - I live by this mindset.
 
 ---
 
