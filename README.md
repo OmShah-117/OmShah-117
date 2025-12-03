@@ -1,4 +1,3 @@
-<!-- ===================== BANNER ===================== -->
 <h1 align="center" style="
   font-family:Orbitron;
   font-size:52px;
