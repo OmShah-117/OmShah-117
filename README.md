@@ -77,6 +77,6 @@
 ---
 
 ## ⚡ Fun Fact  
-I believe *curiosity fuels intelligence* - and I’m endlessly curious
+I believe *curiosity fuels intelligence* - and I’m endlessly curious.
 
 ---
