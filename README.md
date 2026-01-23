@@ -1,4 +1,4 @@
-.. <h1 align="center" style="
+. <h1 align="center" style="
   font-family:Orbitron;
   font-size:52px;
   background: linear-gradient(90deg, #A85CFF, #D291FF, #A85CFF);
