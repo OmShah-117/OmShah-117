@@ -76,7 +76,7 @@
 ## 📈 GitHub Performance & Engineering Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&pause=900&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Data+Scientist;AI+and+Deep+Learning+Enthusiast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&hide_border=true" />
 
 </p>
 
