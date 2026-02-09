@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Transforming complex data into intelligent, real‑world solutions using Machine Learning & AI.</b>
+  <b>Machine Learning Engineer | Data Scientist | AI Practitioner</b><br/>
+  <span style="color:#9aa4af; font-size:14px">Transforming complex data into intelligent, scalable, production‑ready solutions using Machine Learning, Deep Learning, and AI</span>
 </p>
 
 <p align="center">
@@ -15,18 +16,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
 * 🎓 **B.Tech in Information Technology** (Ongoing)
-* 📊 Strong interest in **Data Science, Machine Learning, Deep Learning & AI**
-* 🌱 Currently exploring **NLP, Generative AI, and Model Deployment (MLOps)**
-* 🧠 Skilled in translating data into **predictive models and decision‑ready insights**
-* 🌐 Enjoy building **dashboards, end‑to‑end ML pipelines, and scalable data systems**
-* 🌌 *“Observer creates the reality”* — a mindset that drives curiosity and innovation
+* 💼 Aspiring **Machine Learning Engineer / Data Scientist** with hands‑on experience in **predictive modeling, data analysis, and AI‑driven solutions**
+* 📊 Strong foundation in **Statistics, Probability, Linear Algebra, and Calculus** applied to real‑world ML problems
+* 🤖 Experienced with **Supervised & Unsupervised Learning, Deep Learning, and Model Evaluation**
+* 🌱 Actively learning **NLP, Generative AI (LLMs), Model Deployment, and MLOps practices**
+* 🧠 Proven ability to convert raw datasets into **business‑ready insights and decision‑support systems**
+* 🌐 Comfortable working across the full ML lifecycle: **EDA → Feature Engineering → Modeling → Evaluation → Deployment**
+* 🌌 *“Observer creates the reality”* — a mindset that drives analytical thinking and innovation
 
 ---
 
-## 🧠 Technical Expertise
+## 🧠 Technical Skills (ATS‑Optimized)
 
 ### 💻 Programming Languages
 
@@ -43,10 +46,13 @@
 | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Power BI |
 | ------ | ----- | ---------- | ------- | ------ | -------- |
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning, AI & Data Science
 
 | Scikit‑learn | TensorFlow | Keras | PyTorch | Deep Learning |
-| ------------ | ---------- | ----- | ------- | ------------- |
+| Regression | Classification | Clustering | Feature Engineering | Model Evaluation |
+
+| CNNs | RNNs | Transformers | NLP | Generative AI |
+| ---- | ---- | ------------ | --- | ------------- |
 
 ### 🧮 Mathematical Foundation
 
@@ -58,14 +64,16 @@
 | MySQL |
 | ----- |
 
-### 🛠 Tools & Platforms
+### 🛠 Tools, Platforms & MLOps
 
 | Git | GitHub | Google Colab | Jupyter Notebook |
-| --- | ------ | ------------ | ---------------- |
+
+| VS Code | Linux | REST APIs | Model Deployment |
+| ------- | ----- | --------- | ---------------- |
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Performance & Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&theme=react&hide_border=true" height="170" />
@@ -99,11 +107,15 @@
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Professional Philosophy
 
 > **Curiosity fuels intelligence.**
 > I believe continuous learning and asking the right questions are the foundations of innovation.
 
 ---
 
-<p align="center"><i>Open to collaborations, research opportunities, and impactful ML projects.</i></p>
+<p align="center">
+  <span style="background:linear-gradient(90deg,#00c2ff,#7c7cff); padding:8px 16px; border-radius:20px; color:#0f172a; font-weight:600">
+    Open to Machine Learning Internships, Full‑Time Roles, Research Collaborations, and AI‑Driven Projects
+  </span>
+</p>
