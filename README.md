@@ -28,7 +28,7 @@
 
 ---
 
-## Technical Skills (ATS‑Optimized)
+## Technical Skills
 
 ### Programming Languages
 
