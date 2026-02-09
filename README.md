@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Om Shah</h1>
+<h1 align="center"> Om Shah</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Strong+Mathematics+Foundation;Building+Intelligent+and+Scalable+ML+Systems;Turning+Data+into+Actionable+Insights" />
@@ -16,72 +16,58 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 
-* 🎓 **B.Tech in Information Technology** (Ongoing)
-* 💼 Aspiring **Machine Learning Engineer / Data Scientist** with hands‑on experience in **predictive modeling, data analysis, and AI‑driven solutions**
-* 📊 Strong foundation in **Statistics, Probability, Linear Algebra, and Calculus** applied to real‑world ML problems
-* 🤖 Experienced with **Supervised & Unsupervised Learning, Deep Learning, and Model Evaluation**
-* 🌱 Actively learning **NLP, Generative AI (LLMs), Model Deployment, and MLOps practices**
-* 🧠 Proven ability to convert raw datasets into **business‑ready insights and decision‑support systems**
-* 🌐 Comfortable working across the full ML lifecycle: **EDA → Feature Engineering → Modeling → Evaluation → Deployment**
-* 🌌 *“Observer creates the reality”* — a mindset that drives analytical thinking and innovation
+*  **B.Tech in Information Technology** (Ongoing)
+*  Aspiring **Machine Learning Engineer / Data Scientist** with hands‑on experience in **predictive modeling, data analysis, and AI‑driven solutions**
+*  Strong Math foundation in **Statistics, Probability, Linear Algebra, and Calculus** applied to real‑world ML problems
+*  Experienced with **Supervised & Unsupervised Learning, Deep Learning, and Model Evaluation**
+*  Actively learning **NLP, Generative AI (LLMs), Model Deployment, and MLOps practices**
+*  Proven ability to convert raw datasets into **business‑ready insights and decision‑support systems**
+*  Comfortable working across the full ML lifecycle: **EDA → Feature Engineering → Modeling → Evaluation → Deployment**
 
 ---
 
-## 🧠 Technical Skills (ATS‑Optimized)
+## Technical Skills (ATS‑Optimized)
 
-### 💻 Programming Languages
+### Programming Languages
 
 | Python | Java | JavaScript | SQL |
 | ------ | ---- | ---------- | --- |
 
-### 🎨 Frontend & App Frameworks
+### Frontend & App Frameworks
 
 | Streamlit | HTML | CSS | JavaScript |
 | --------- | ---- | --- | ---------- |
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 
 | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Power BI |
 | ------ | ----- | ---------- | ------- | ------ | -------- |
 
-### 🤖 Machine Learning, AI & Data Science
-
-| Scikit‑learn | TensorFlow | Keras | PyTorch | Deep Learning |
-| Regression | Classification | Clustering | Feature Engineering | Model Evaluation |
+### Machine Learning, AI & Data Science
 
 | CNNs | RNNs | Transformers | NLP | Generative AI |
 | ---- | ---- | ------------ | --- | ------------- |
 
-### 🧮 Mathematical Foundation
+### Mathematical Foundation
 
 | Statistics | Probability | Linear Algebra | Calculus |
 | ---------- | ----------- | -------------- | -------- |
 
-### 🗄️ Databases
+### Databases
 
 | MySQL |
 | ----- |
 
-### 🛠 Tools, Platforms & MLOps
-
-| Git | GitHub | Google Colab | Jupyter Notebook |
+### Tools, Platforms & MLOps
 
 | VS Code | Linux | REST APIs | Model Deployment |
 | ------- | ----- | --------- | ---------------- |
 
 ---
 
-## 📈 GitHub Performance & Engineering Activity
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&hide_border=true&theme=default" />
-
-
-</p>
-
-### 🔥 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmShah-117&theme=react-dark&area=true&hide_border=true" />
@@ -89,7 +75,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-shah-943676259">
@@ -108,7 +94,7 @@
 
 ---
 
-## ⚡ Professional Philosophy
+## Professional Philosophy
 
 > **Curiosity fuels intelligence.**
 > I believe continuous learning and asking the right questions are the foundations of innovation.
