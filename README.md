@@ -76,7 +76,8 @@
 ## 📈 GitHub Performance & Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&hide_border=true&theme=default" />
+
 
 </p>
 
