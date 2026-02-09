@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <b>Machine Learning Engineer | Data Scientist | AI Practitioner</b><br/>
-  <span style="color:#9aa4af; font-size:14px">Transforming complex data into intelligent, scalable, production‑ready solutions using Machine Learning, Deep Learning, and AI</span>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmShah-117&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/OmShah-117?label=Followers&style=flat" />
 </p>
