@@ -1,71 +1,109 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=32&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Om+Shah+%F0%9F%91%8B;A+good+foundation+in+Mathematics;Deep+interest+in+Machine+Learning+and+Deep+Learning;Skilled+in+building+predictive+models;Delivering+actionable+insights+from+complex+datasets" />
-</h1>
-
+<h1 align="center">🚀 Om Shah</h1>
 
 <p align="center">
-  I transform raw data into meaningful insights and build intelligent solutions powered by Machine Learning & AI.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Strong+Mathematics+Foundation;Building+Intelligent+and+Scalable+ML+Systems;Turning+Data+into+Actionable+Insights" />
+</p>
+
+<p align="center">
+  <b>Transforming complex data into intelligent, real‑world solutions using Machine Learning & AI.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmShah-117&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/OmShah-117?label=Followers&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Currently pursuing **B.Tech in Information Technology.**  
-- 📊 Passionate about **Data Science, Machine Learning, Deep Learning, AI.**  
-- 🌱 Actively learning **NLP, GenAI and Model Deployment.**  
-- 🌐 Love creating modern dashboards, predictive systems, and scalable datascience pipelines.  
-- 🌌 “**Observer Creates the Reality**” - I live by this mindset.
+## 👨‍💻 About Me
+
+* 🎓 **B.Tech in Information Technology** (Ongoing)
+* 📊 Strong interest in **Data Science, Machine Learning, Deep Learning & AI**
+* 🌱 Currently exploring **NLP, Generative AI, and Model Deployment (MLOps)**
+* 🧠 Skilled in translating data into **predictive models and decision‑ready insights**
+* 🌐 Enjoy building **dashboards, end‑to‑end ML pipelines, and scalable data systems**
+* 🌌 *“Observer creates the reality”* — a mindset that drives curiosity and innovation
 
 ---
 
-# 🧠 **Tech Stack**
+## 🧠 Technical Expertise
 
-### **Programming Languages**
+### 💻 Programming Languages
+
 | Python | Java | JavaScript | SQL |
-|--------|------|------------|-----|
-### **Frontend**
-| Streamlit | JavaScript | HTML | CSS |
-|-----------|------------|------|-----|
-### **Data Analysis & Visualization**
+| ------ | ---- | ---------- | --- |
+
+### 🎨 Frontend & App Frameworks
+
+| Streamlit | HTML | CSS | JavaScript |
+| --------- | ---- | --- | ---------- |
+
+### 📊 Data Analysis & Visualization
+
 | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Power BI |
-|--------|--------|-------------|----------|--------|-----------|
-### **Machine Learning & AI**
-| Scikit-learn | TensorFlow | Keras | PyTorch | Deep Learning |
-|--------------|-------------|--------|---------|----------------|
-### **Tools & Platforms**
-| Git | GitHub | Google Colab | Jupyter Notebook |
-|-----|--------|--------------|-------------------|
-### **Mathematics Foundation**
+| ------ | ----- | ---------- | ------- | ------ | -------- |
+
+### 🤖 Machine Learning & AI
+
+| Scikit‑learn | TensorFlow | Keras | PyTorch | Deep Learning |
+| ------------ | ---------- | ----- | ------- | ------------- |
+
+### 🧮 Mathematical Foundation
+
 | Statistics | Probability | Linear Algebra | Calculus |
-|------------|-------------|----------------|----------|
-### **Databases**
+| ---------- | ----------- | -------------- | -------- |
+
+### 🗄️ Databases
+
 | MySQL |
-|-------|
+| ----- |
+
+### 🛠 Tools & Platforms
+
+| Git | GitHub | Google Colab | Jupyter Notebook |
+| --- | ------ | ------------ | ---------------- |
+
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/om-shah-943676259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/oshah0801"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="mailto:oshah0801@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://medium.com/@oshah0801"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmShah-117&show_icons=true&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmShah-117&layout=compact&theme=react&hide_border=true" height="170" />
+</p>
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmShah-117&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🌐 Connect With Me
 
-### 📉 Contribution Activity Graph
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-shah-943676259">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/oshah0801">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:oshah0801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@oshah0801">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmShah-117&theme=react-dark&area=true&hide_border=true" />
-
-</div>
-<div align="center">
 ---
 
-## ⚡ Fun Fact  
-I believe *curiosity fuels intelligence* - and I’m endlessly curious
+## ⚡ Philosophy
+
+> **Curiosity fuels intelligence.**
+> I believe continuous learning and asking the right questions are the foundations of innovation.
 
 ---
+
+<p align="center"><i>Open to collaborations, research opportunities, and impactful ML projects.</i></p>
