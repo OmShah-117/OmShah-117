@@ -1,7 +1,7 @@
 <h1 align="center"> Om Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Strong+Mathematics+Foundation;Building+Intelligent+and+Scalable+ML+Systems;Turning+Data+into+Actionable+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Enthusiast;Building+Intelligent+and+Scalable+ML+Systems;Turning+Data+into+Actionable+Insights" />
 </p>
 
 <p align="center">
